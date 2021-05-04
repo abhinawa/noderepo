@@ -1,2 +1,2 @@
 # noderepo
-this is for how to git ignore in j son
+this is for how to git ignore in json
